@@ -13,8 +13,8 @@
   }
 
   body {
-     background-image : url('../images/b (1).jpg');/* set the background color here */
-     background-image : url('/images/b(1).jpg');
+     background-image : url('../images/night.jpg');/* set the background color here */
+     background-image : url('/images/night.jpg');
   color: black ; /* set the text here */
   font-family: Helvetica, sans-serif;  /* set the font here */
   text-align: center;  /* set the text alignment here */
