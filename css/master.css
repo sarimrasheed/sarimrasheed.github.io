@@ -13,7 +13,7 @@
   }
 
   body {
-      background-image: url('images/900706.jpg');/* set the background color here */
+      background-image: url('../images/900706.jpg');/* set the background color here */
   color: black ; /* set the text here */
   font-family: Helvetica, sans-serif;  /* set the font here */
   text-align: center;  /* set the text alignment here */
