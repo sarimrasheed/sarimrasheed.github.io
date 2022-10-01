@@ -3,7 +3,7 @@
 /* Text inside these asterisks and slashes are comments for human */
 
   a {
-  color: midnightblue;  /* set the text color to blue here */
+  color: linen;  /* set the text color to blue here */
     text-decoration: none; /* This means we do not want hyperlinks to be underlined */
   }
 
@@ -15,7 +15,7 @@
   body {
      background-image : url('../images/night.jpg');/* set the background color here */
      background-image : url('/images/night.jpg');
-  color: black ; /* set the text here */
+  color: powderblue ; /* set the text here */
   font-family: Helvetica, sans-serif;  /* set the font here */
   text-align: center;  /* set the text alignment here */
    }
